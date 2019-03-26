@@ -4,7 +4,6 @@ import PropTypes from "prop-types";
 import { connect } from 'react-redux';
 
 class Joke extends Component {
-
   render() {
     const {jokes} = this.props;
     //only using the latest joke 

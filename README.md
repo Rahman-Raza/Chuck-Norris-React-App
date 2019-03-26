@@ -1,6 +1,6 @@
-# Afterpay Coding Challenge
+# Chuck Norris Joke Single Page Application
 
-Simple front end implementation of /createorder api from AfterPay.
+Simple front end implementation of  https://api.chucknorris.io.
 
 ## Getting Started
 
